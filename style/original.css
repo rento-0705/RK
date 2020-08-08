@@ -1,0 +1,29 @@
+/*未承認協会 れんとベースボール協会よって作成・管理されています。*/
+/*systemstylesheetforRBA*/
+/*text-color*/
+.bule{
+color: blue ;
+}
+.red{
+color: red ;	
+}
+.yellow{
+color: yellow ;
+}
+.loghtblue{
+color: lightblue ;	
+}
+/*Background color*/
+.bule-back{
+background-color:blue;
+}
+.red-back{
+background-color:red;
+}
+.yellow-back{
+background-color:yellow;
+}
+.loghtblue-back{
+background-color:lightblue;	
+}
+
